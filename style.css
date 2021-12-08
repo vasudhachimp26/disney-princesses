@@ -1,0 +1,23 @@
+.body_backgorund 
+{
+    background:linear-gradient(lightblue,lightpink,lavender);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-image:url("https://wallpapercave.com/wp/OZLYsgd.jpg");
+    background-size: contain;
+    border-style:ridge;
+}
+
+h3
+{
+	width: 1000px;
+	background-color: white;
+	display: inline-block;
+}
+
+
+
